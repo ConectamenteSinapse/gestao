@@ -5,12 +5,12 @@ Jogo sério que ajuda pessoas com Síndrome de Down a praticar e organizar taref
 (organizar objetos, escolher roupas, autocuidado), com níveis progressivos, feedback imediato e recompensas.
 
 ## Squad
-| Papel | Responsável |
-|---|---|
-| Product Owner (PO) | [Camile] |
-| Product Manager (PM) | [Ricardo] |
-| Desenvolvedor(a) | [João Pedro] |
-| Desenvolvedor(a) | [Lorenzo] |
+| Papel | Responsável | Atuação |
+|---|---|---|
+| Desenvolvedora | Camile | Planeja Sprints e acompanha o quadro; prioriza o backlog e define o valor de negócio; também desenvolve landing page, documentação e pitch |
+| Desenvolvedor Backend| Ricardo | Desenvolve backend |
+| Desenvolvedor Frontend | João Pedro | Telas e lógica do app |
+| Desenvolvedor Database | Lorenzo | Modelagem e persistência |
 
 ## Repositórios
 backend · frontend · UX-UI · Pitch · Documentacao

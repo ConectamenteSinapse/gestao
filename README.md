@@ -16,7 +16,7 @@ Jogo sério que ajuda pessoas com Síndrome de Down a praticar e organizar taref
 backend · frontend · UX-UI · Pitch · Documentacao
 
 ## Gestão ágil
-- Quadro: GitHub Projects (adicionar link depois)
+- Quadro: GitHub Projects (https://github.com/orgs/ConectamenteSinapse/projects/3)
 - Estimativa macro: T-Shirt Sizing (S, M, L, XL) para Épicos
 - Estimativa micro: Fibonacci (1, 2, 3, 5, 8) para Histórias
 - Nenhuma história com 13+ pontos: se passar disso, é refatiada.
